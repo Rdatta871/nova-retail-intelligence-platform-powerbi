@@ -1,0 +1,201 @@
+CustomerID,FullName,Region,SignupDate,LoyaltyTier,Age,Gender
+C1000,Maria Lundberg,Sweden,8/27/2022,Silver,44,Female
+C1001,Przemysław Tatarczuk,Sweden,6/12/2024,Silver,41,Male
+C1002,Manon de Maillard,Sweden,2/2/2022,Silver,25,Female
+C1003,Pepito Cleto Juan Barón,Spain,12/12/2023,Gold,56,Male
+C1004,Elin van 't Wel,Austria,3/19/2024,Silver,64,Male
+C1005,Hans Söderström,Denmark,7/12/2024,Gold,46,Male
+C1006,Emmy Vogt,Poland,10/20/2024,Bronze,33,Female
+C1007,Cornelia Honing,Poland,9/12/2024,Silver,27,Male
+C1008,Sig.ra Paola Longhena,Sweden,11/10/2024,Bronze,57,Female
+C1009,Martin Svensson,France,6/26/2022,Silver,51,Female
+C1010,Fortunata Falcón,Sweden,7/28/2023,Bronze,32,Female
+C1011,Richard Bazin,Sweden,3/3/2024,Silver,39,Female
+C1012,Noël Lesage du Texier,Belgium,1/22/2022,Silver,58,Male
+C1013,Christopher Ortiz,Spain,8/17/2022,Gold,41,Male
+C1014,pan Albert Godzik,Poland,12/17/2023,Gold,31,Male
+C1015,Virginia Majorana,France,8/18/2024,Silver,24,Female
+C1016,Vinicio de Garmendia,Germany,5/28/2022,Gold,52,Male
+C1017,Samuel Miró Olivares,Poland,4/8/2023,Silver,48,Female
+C1018,David Brown,Germany,3/24/2024,Gold,41,Male
+C1019,René Gomes,France,6/6/2024,Gold,63,Female
+C1020,Michelle Fontaine-Maréchal,Austria,4/22/2023,Gold,45,Female
+C1021,pani Klara Trzpil,Italy,6/2/2022,Silver,41,Male
+C1022,Jaime Vall Viña,Belgium,1/19/2023,Silver,38,Female
+C1023,Marilyn Clark,Belgium,10/23/2023,Silver,57,Male
+C1024,Giulietta Navone,Belgium,11/20/2024,Bronze,43,Male
+C1025,Melissa de Koning,Poland,3/22/2023,Silver,61,Male
+C1026,Rosina Longhena-Anguissola,Austria,2/3/2023,Gold,59,Male
+C1027,Arthur Le Roux,Italy,1/3/2024,Bronze,25,Male
+C1028,Sten Arvidsson,Italy,5/9/2022,Bronze,29,Male
+C1029,Anna Knutsson,Netherlands,4/15/2023,Bronze,41,Male
+C1030,pani Nela Konieczek,Italy,3/31/2022,Bronze,32,Male
+C1031,Sandra Lee,Sweden,6/23/2023,Gold,26,Female
+C1032,Coral Uribe Rincón,Denmark,10/20/2024,Silver,52,Male
+C1033,Taylor Fox PhD,Belgium,7/31/2023,Bronze,54,Female
+C1034,Giuliana Trillini,Belgium,6/12/2023,Silver,20,Male
+C1035,Mrs Barbara Day,Netherlands,4/12/2024,Silver,25,Female
+C1036,Victoria Lommert,Netherlands,4/2/2023,Silver,58,Male
+C1037,Alejandro Rodriguez,Belgium,9/4/2022,Silver,35,Female
+C1038,Rosa Goedhart,Germany,10/14/2024,Silver,65,Female
+C1039,Lynne Turnbull,Germany,12/1/2023,Bronze,51,Male
+C1040,Oscar Karlsson,Netherlands,7/4/2022,Gold,27,Male
+C1041,Frau Nurten Vollbrecht,France,2/27/2023,Bronze,45,Male
+C1042,Marion Williams,France,8/5/2024,Gold,43,Female
+C1043,Corona de Pozo,Austria,4/9/2023,Bronze,32,Male
+C1044,Mrs. Mary Nelson,Austria,10/5/2022,Gold,59,Male
+C1045,Jelte Thout,France,8/10/2023,Gold,30,Female
+C1046,Christopher Davis,Denmark,6/28/2022,Silver,45,Male
+C1047,Vanessa Traversa,Italy,2/21/2022,Bronze,42,Male
+C1048,Esmee Willems van Lier,Denmark,11/3/2024,Bronze,39,Male
+C1049,Roberta del Benitez,Belgium,7/19/2023,Bronze,25,Male
+C1050,Kenan Röhrdanz,Austria,2/21/2023,Bronze,24,Male
+C1051,Filippo Tröst,France,1/15/2022,Silver,29,Male
+C1052,Hans-Hinrich Drubin MBA.,France,4/25/2023,Bronze,61,Female
+C1053,Lori Garcia,Austria,4/14/2023,Gold,23,Male
+C1054,Viktoria Björk,Netherlands,9/25/2024,Silver,60,Female
+C1055,Moritz Fritsch-Schlosser,Italy,2/17/2024,Bronze,63,Male
+C1056,Florentino Mendez Taboada,Netherlands,3/11/2022,Gold,22,Male
+C1057,Edit Röhricht B.Sc.,Germany,5/7/2024,Bronze,48,Female
+C1058,Julie Morel,Spain,5/1/2022,Bronze,29,Female
+C1059,Anastazja Kołodziejak,Poland,3/16/2023,Bronze,44,Male
+C1060,Juan Manuel Soriano Pinilla,Austria,4/21/2022,Gold,25,Female
+C1061,Margot du Laroche,Germany,1/3/2024,Gold,61,Male
+C1062,Fatima Barents,Poland,11/17/2022,Silver,25,Male
+C1063,Błażej Zuziak,Italy,2/16/2024,Bronze,49,Male
+C1064,Anouk De Oliveira,Poland,10/13/2023,Bronze,25,Male
+C1065,Joëlle van Bentheim-van Straaten,Italy,3/25/2023,Bronze,63,Male
+C1066,Ansaldo Pedrazzini,Netherlands,2/8/2022,Gold,24,Male
+C1067,Guy Le Maury,France,5/23/2022,Silver,28,Male
+C1068,Manolo Avilés Moliner,Netherlands,3/12/2023,Bronze,53,Female
+C1069,Alexandre Mallet du Moreno,Spain,9/22/2022,Gold,18,Male
+C1070,Gaspar Jordán Vizcaíno,Poland,7/28/2023,Gold,53,Female
+C1071,Katharina Becker,Italy,12/4/2024,Gold,45,Female
+C1072,Leni Pechel B.Eng.,Germany,5/8/2022,Silver,62,Female
+C1073,Bärbel Heuser,Poland,5/8/2024,Bronze,26,Male
+C1074,Lizzy Kas,France,12/11/2024,Silver,50,Female
+C1075,Remigio Vila Domingo,Italy,9/5/2022,Silver,37,Female
+C1076,Sture Sköld,Germany,4/2/2023,Silver,32,Female
+C1077,Patryk Oskroba,France,1/21/2022,Silver,37,Female
+C1078,Marine Allain,Austria,8/17/2023,Silver,48,Male
+C1079,Sandra Łyczak,Netherlands,3/7/2022,Gold,43,Male
+C1080,Maurice Williams,Netherlands,10/14/2022,Gold,50,Male
+C1081,Mathijs de Haas-Blonk,Poland,11/21/2022,Bronze,34,Female
+C1082,George Ehlert,Spain,8/8/2023,Bronze,63,Female
+C1083,Ann-Marie Johansson,Poland,7/20/2022,Gold,23,Male
+C1084,Dott. Loredana Sandi,Spain,7/21/2024,Bronze,52,Male
+C1085,Patrick Atkinson,Spain,8/28/2022,Gold,46,Female
+C1086,Brunilda Montalbán Uriarte,Sweden,11/25/2023,Bronze,45,Male
+C1087,Dr Duncan Bray,Denmark,2/16/2022,Gold,52,Female
+C1088,Dr Gary Goodwin,Denmark,1/1/2023,Silver,31,Female
+C1089,Concetta Leonetti,France,5/30/2023,Gold,31,Male
+C1090,Maj Nilsson,Spain,2/17/2024,Silver,45,Male
+C1091,Mohamed Smith,Belgium,12/8/2022,Gold,24,Female
+C1092,Inga Zmuda,Sweden,9/6/2024,Gold,35,Male
+C1093,Ali de Hoogh,Poland,8/17/2024,Bronze,24,Male
+C1094,Diana Adams,Germany,7/23/2022,Silver,48,Female
+C1095,Mrs Frances James,Italy,10/23/2023,Bronze,53,Female
+C1096,Irma Ekberg,Poland,9/28/2023,Bronze,26,Male
+C1097,Emmy Aumann B.A.,Austria,10/7/2024,Silver,48,Female
+C1098,Tara Engels-van den Eijssel,France,1/24/2023,Bronze,24,Male
+C1099,Dr. Elvira Dowerg,Netherlands,8/29/2022,Silver,58,Female
+C1100,Lucila Ramírez,Netherlands,12/23/2022,Bronze,42,Male
+C1101,Luka van der Schuijt,Poland,9/24/2022,Silver,41,Male
+C1102,Darrell Summers,Austria,2/28/2023,Bronze,32,Male
+C1103,Róża Breś,Germany,6/22/2023,Bronze,19,Male
+C1104,Joel Lobato-Cuevas,Austria,1/7/2023,Bronze,50,Female
+C1105,Feliciano Tejera Luque,Poland,10/29/2023,Gold,27,Female
+C1106,Paula Smith,Belgium,12/6/2023,Bronze,57,Male
+C1107,Isaac Mendez,Belgium,1/30/2023,Silver,61,Female
+C1108,Eline van Hoevel en van Zwindrecht,Germany,6/4/2023,Gold,40,Female
+C1109,Yusuf Backer,Austria,11/16/2024,Bronze,45,Female
+C1110,Fryderyk Żurawik,Austria,7/6/2024,Gold,49,Female
+C1111,Herr Siegmar Tröst,Germany,2/24/2024,Bronze,37,Male
+C1112,Jacqueline Grondin,Austria,8/15/2024,Gold,48,Female
+C1113,Daria Florio,Germany,10/11/2024,Silver,28,Male
+C1114,Paulina Morillo-Calvo,France,6/2/2023,Bronze,37,Female
+C1115,Kevin Khan,Poland,11/22/2023,Silver,64,Female
+C1116,Joëlle Nijman,Spain,3/31/2024,Gold,58,Female
+C1117,Raphaela Noack,Austria,3/1/2024,Gold,35,Male
+C1118,Elvira Melin,Austria,12/3/2024,Bronze,45,Female
+C1119,Krystian Cierpka,Belgium,5/13/2024,Bronze,21,Female
+C1120,Radosław Turoń,Belgium,5/16/2022,Gold,29,Male
+C1121,Paul Day,Belgium,2/16/2024,Gold,36,Male
+C1122,Rosie Dixon,Spain,5/20/2023,Bronze,60,Female
+C1123,Jasper Jacobs-Kas,Italy,2/27/2022,Bronze,54,Male
+C1124,Karen Bates,France,11/8/2023,Gold,50,Male
+C1125,Claude Camus,Spain,8/2/2022,Gold,41,Male
+C1126,Denise Austin-Horton,France,1/20/2023,Silver,64,Female
+C1127,Robert Mielcarz,Italy,3/13/2024,Silver,61,Female
+C1128,Rhys Cartwright,Spain,7/30/2024,Gold,49,Male
+C1129,Rolf Bengtsson,France,4/3/2023,Silver,34,Male
+C1130,Edward Mohaupt-Trubin,Italy,8/2/2024,Silver,49,Female
+C1131,Victoire Alves du Aubry,Sweden,4/1/2024,Silver,28,Female
+C1132,Alexander Woodward,Sweden,3/30/2024,Bronze,60,Female
+C1133,Rozalia Madejczyk,Sweden,5/11/2022,Bronze,25,Female
+C1134,Thibaut-Eugène Goncalves,Spain,11/9/2024,Silver,29,Female
+C1135,Vincent Aubert,Poland,10/17/2024,Silver,47,Female
+C1136,Miss Lynn Grant,Poland,1/24/2024,Silver,27,Male
+C1137,Ottone Falcone,Netherlands,7/25/2023,Gold,25,Male
+C1138,Marianna Jachimczyk,Italy,7/19/2024,Silver,39,Female
+C1139,Tess Briere-van Wijland,Sweden,3/6/2022,Silver,38,Female
+C1140,Nath Meunier,Sweden,6/25/2023,Bronze,34,Female
+C1141,Peter Svensson,Spain,1/10/2024,Bronze,54,Female
+C1142,Hanna Lundgren,Netherlands,8/19/2022,Silver,41,Male
+C1143,Leonhard Harloff MBA.,Spain,12/15/2022,Gold,34,Female
+C1144,Nacho Sureda Llamas,Netherlands,1/30/2024,Bronze,65,Female
+C1145,Minna Hahn B.Sc.,Poland,4/11/2023,Silver,61,Male
+C1146,Sig.ra Luciana Rensi,Belgium,6/16/2023,Bronze,22,Male
+C1147,Costantino Fracci,Austria,8/1/2024,Bronze,50,Female
+C1148,Ize Vermeulen,Italy,2/7/2022,Gold,40,Male
+C1149,Diana Tozzi,Spain,5/5/2022,Gold,60,Female
+C1150,pan Julian Wabik,Belgium,12/4/2022,Bronze,46,Male
+C1151,Grégoire Clerc,Poland,6/23/2022,Bronze,51,Female
+C1152,Véronique Bourgeois,Spain,12/1/2022,Gold,49,Female
+C1153,Veronica Ekström,Denmark,1/4/2022,Gold,60,Male
+C1154,Zacharie Turpin,Belgium,4/7/2022,Silver,54,Female
+C1155,Agnieszka Jäkel,Belgium,11/11/2024,Silver,40,Male
+C1156,Quinten van Spreuwel,Netherlands,1/20/2022,Bronze,36,Male
+C1157,Urban Larsson,Belgium,2/6/2023,Silver,58,Female
+C1158,Dipl.-Ing. Karl Kabus,Spain,10/5/2024,Gold,27,Female
+C1159,Wayne Martin,Denmark,6/1/2023,Silver,56,Male
+C1160,Amin Bruijne van der Veen,France,8/29/2024,Bronze,53,Male
+C1161,Dr. Mary Stafford,Poland,11/21/2023,Gold,36,Female
+C1162,Aimé Barbier,Germany,10/1/2022,Silver,33,Male
+C1163,pan Nataniel Kazimierczuk,Denmark,2/26/2022,Bronze,28,Male
+C1164,Benoît Besson,Poland,10/25/2022,Silver,52,Female
+C1165,Michela Solari,Germany,12/30/2023,Bronze,34,Male
+C1166,Anita Håkansson,Italy,3/10/2024,Silver,55,Female
+C1167,Hagen Hörle,Netherlands,10/25/2024,Silver,30,Male
+C1168,Daniël Coolen,Poland,6/16/2022,Gold,49,Female
+C1169,Étienne Fischer du Henry,Italy,7/1/2022,Gold,40,Female
+C1170,Marianna Walo,Netherlands,10/15/2023,Bronze,36,Female
+C1171,Roger du Renard,Italy,1/20/2023,Gold,56,Female
+C1172,Paul Gieß B.Sc.,Austria,4/2/2024,Gold,45,Female
+C1173,Frances Clarke,Italy,10/5/2023,Silver,36,Male
+C1174,Ashley Latier,Spain,3/6/2024,Bronze,32,Female
+C1175,Naud Appelman-Shupe,Sweden,6/30/2023,Silver,58,Male
+C1176,Lize Dirven,Italy,4/1/2022,Silver,38,Male
+C1177,Eric Nelson,Austria,5/18/2022,Bronze,62,Female
+C1178,Vera van de Berg,Italy,6/13/2023,Gold,64,Female
+C1179,Christophe Rossi,Germany,6/6/2024,Silver,25,Male
+C1180,Sigfrido Salmerón Blasco,Netherlands,2/13/2023,Bronze,48,Female
+C1181,Seth Schrik,France,12/23/2024,Silver,18,Female
+C1182,Esperanza Adán Andreu,France,8/2/2024,Bronze,54,Male
+C1183,Céline-Thérèse Dufour,Netherlands,3/14/2023,Bronze,54,Male
+C1184,Jacinto Cuéllar Soriano,Netherlands,12/13/2023,Silver,64,Female
+C1185,Viridiana Munari-Mogherini,Netherlands,3/19/2023,Silver,60,Male
+C1186,Bjorn van Bovene,Spain,9/29/2023,Gold,22,Male
+C1187,Kathleen Watson,Belgium,12/1/2023,Silver,57,Female
+C1188,Gloria Förster,Spain,1/25/2024,Silver,33,Female
+C1189,Bente Bosch,Netherlands,2/22/2024,Gold,63,Female
+C1190,Reza Reichmann,Italy,6/22/2022,Bronze,27,Female
+C1191,Galasso Guglielmi-Vittadello,Germany,9/26/2024,Silver,60,Male
+C1192,Sofie Schenkel-Kathagen,Sweden,6/21/2024,Silver,30,Male
+C1193,Claudine Brun du Laroche,Netherlands,6/20/2022,Bronze,58,Male
+C1194,Michel du Faure,Netherlands,10/8/2024,Gold,43,Female
+C1195,Friedo Zorbach,Germany,11/18/2023,Gold,45,Female
+C1196,Melina Pistoletto,Belgium,1/9/2022,Gold,45,Male
+C1197,Lenn Claesner,Belgium,9/16/2024,Silver,57,Male
+C1198,Jack van Klaarwater-Post,Poland,10/18/2023,Gold,44,Female
+C1199,Igor Nocek,Sweden,5/10/2024,Silver,23,Female

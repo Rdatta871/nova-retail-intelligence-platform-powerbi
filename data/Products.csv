@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice,UnitsInStock,LaunchDate
+P1001,Apple iPad 10.2,Electronics,Tablets,415.93,81,9/27/2024
+P1002,Galaxy Tab A8,Electronics,Tablets,663.3,93,7/24/2024
+P1003,Lenovo M10,Electronics,Tablets,1428.08,83,4/8/2024
+P1004,Amazon Fire HD,Electronics,Tablets,264.26,24,3/18/2024
+P1005,Surface Go,Electronics,Tablets,915.64,14,5/9/2024
+P1006,Bose QC45,Electronics,Audio,415.85,49,1/13/2024
+P1007,Sony WH-1000XM4,Electronics,Audio,903.36,53,2/25/2024
+P1008,JBL Flip 6,Electronics,Audio,787.07,33,1/27/2024
+P1009,Beats Studio3,Electronics,Audio,1477.94,92,7/12/2024
+P1010,Marshall Emberton,Electronics,Audio,1271.22,56,9/10/2024
+P1011,Dell XPS 13,Electronics,Laptops,1483.1,18,5/5/2024
+P1012,HP Spectre x360,Electronics,Laptops,1314.62,28,2/17/2024
+P1013,Lenovo X1 Carbon,Electronics,Laptops,1072.14,13,11/20/2024
+P1014,ASUS ZenBook,Electronics,Laptops,486.29,48,1/11/2024
+P1015,MacBook Air,Electronics,Laptops,1119.53,55,7/4/2024
+P1016,Canon EOS M50,Electronics,Cameras,758.59,94,9/20/2024
+P1017,Nikon D5600,Electronics,Cameras,473.12,38,8/21/2024
+P1018,Sony Alpha A6400,Electronics,Cameras,1323.8,92,2/21/2024
+P1019,Fujifilm X-T30,Electronics,Cameras,67.28,29,7/28/2024
+P1020,Panasonic G95,Electronics,Cameras,639.73,28,8/15/2024
+P1021,Nike Air Max 270,Apparel,Footwear,1349.84,99,1/1/2024
+P1022,Adidas Ultraboost,Apparel,Footwear,1172.09,76,10/25/2024
+P1023,Puma Velocity,Apparel,Footwear,42.4,99,4/8/2024
+P1024,NB 574,Apparel,Footwear,953.86,54,12/21/2024
+P1025,ASICS Gel-Kayano,Apparel,Footwear,136.64,92,6/4/2024
+P1026,Levi’s Slim Jeans,Apparel,Clothing,293.34,33,1/22/2024
+P1027,H&M Cotton Shirt,Apparel,Clothing,1066.45,74,12/3/2024
+P1028,Zara Polo Tee,Apparel,Clothing,689.17,88,1/29/2024
+P1029,GAP Hoodie,Apparel,Clothing,766.58,39,1/2/2024
+P1030,Uniqlo Trousers,Apparel,Clothing,863.19,31,11/4/2024
+P1031,Fossil Wallet,Apparel,Accessories,1361.92,91,3/15/2024
+P1032,Ray-Ban Aviators,Apparel,Accessories,967.01,74,9/23/2024
+P1033,DW Watch,Apparel,Accessories,758.35,97,11/6/2024
+P1034,Gucci Belt,Apparel,Accessories,278.65,74,1/18/2024
+P1035,CK Tie,Apparel,Accessories,130.3,28,9/24/2024
+P1036,North Face Jacket,Apparel,Outerwear,834.95,60,7/24/2024
+P1037,Columbia Windbreaker,Apparel,Outerwear,638.07,94,2/6/2024
+P1038,Patagonia Fleece,Apparel,Outerwear,298.56,70,12/1/2024
+P1039,Superdry Coat,Apparel,Outerwear,1042.78,32,7/31/2024
+P1040,Tommy Trench,Apparel,Outerwear,1252.33,38,1/18/2024
+P1041,IKEA Markus Desk,Home Office,Desks,422.3,23,10/29/2024
+P1042,FlexiSpot Stand Desk,Home Office,Desks,1425.9,72,10/7/2024
+P1043,Urban Ladder Table,Home Office,Desks,854.86,97,3/9/2024
+P1044,Featherlite Sit/Stand,Home Office,Desks,849.39,31,7/24/2024
+P1045,WorkEZ Ergodesk,Home Office,Desks,212.41,10,6/24/2024
+P1046,Herman Miller Aeron,Home Office,Chairs,233.04,23,10/19/2024
+P1047,Nilkamal Task,Home Office,Chairs,160.85,99,2/14/2024
+P1048,Urban Ladder Executive,Home Office,Chairs,126.09,46,12/29/2024
+P1049,Featherlite Optima,Home Office,Chairs,742.37,93,1/18/2024
+P1050,GreenSoul Jupiter,Home Office,Chairs,722.05,24,5/9/2024
+P1051,Logitech MX Mouse,Home Office,Peripherals,138.84,26,1/12/2024
+P1052,Razer Keyboard,Home Office,Peripherals,1037.07,91,8/16/2024
+P1053,Apple Trackpad,Home Office,Peripherals,214.71,77,9/15/2024
+P1054,Dell Webcam,Home Office,Peripherals,1133.73,12,9/17/2024
+P1055,HP Wireless Mouse,Home Office,Peripherals,281.16,60,10/5/2024
+P1056,Targus Laptops Bag,Home Office,Storage & Bags,127.95,69,11/27/2024
+P1057,Samsonite Backpack,Home Office,Storage & Bags,179.26,56,4/27/2024
+P1058,AT Duffel,Home Office,Storage & Bags,1342.24,89,5/19/2024
+P1059,Wildcraft Sling,Home Office,Storage & Bags,908.78,77,9/20/2024
+P1060,Dell Messenger Bag,Home Office,Storage & Bags,1437.8,40,8/25/2024
+P1061,Fitbit Charge 5,Sports,Fitness Gear,1081.75,45,10/16/2024
+P1062,Garmin Venu Sq,Sports,Fitness Gear,1443.99,23,4/8/2024
+P1063,Resistance Bands,Sports,Fitness Gear,532.07,96,6/5/2024
+P1064,Kettlebell Set,Sports,Fitness Gear,1322.12,92,8/19/2024
+P1065,Yoga Mat,Sports,Fitness Gear,314.4,43,7/23/2024
+P1066,Adidas Tracksuit,Sports,Outdoor Wear,315.11,94,1/10/2024
+P1067,Nike Shorts,Sports,Outdoor Wear,508.34,83,1/2/2024
+P1068,Columbia Hiking Pants,Sports,Outdoor Wear,1386.21,29,7/19/2024
+P1069,Puma Windbreaker,Sports,Outdoor Wear,1158.77,60,12/28/2024
+P1070,Patagonia Shell,Sports,Outdoor Wear,581.73,89,9/16/2024
+P1071,Salomon Trail,Sports,Footwear,1394.33,96,3/21/2024
+P1072,Merrell Moab 2,Sports,Footwear,489.28,12,7/21/2024
+P1073,Nike Pegasus,Sports,Footwear,405.11,15,7/21/2024
+P1074,Reebok Nano,Sports,Footwear,976.3,97,12/2/2024
+P1075,Asics Trail Runner,Sports,Footwear,388.39,34,4/18/2024
+P1076,Water Bottle,Sports,Accessories,878.37,40,10/9/2024
+P1077,Gym Gloves,Sports,Accessories,605.01,33,10/23/2024
+P1078,Sports Cap,Sports,Accessories,93.92,51,9/9/2024
+P1079,Arm Band,Sports,Accessories,33.4,78,12/5/2024
+P1080,Headband Set,Sports,Accessories,269.68,10,5/12/2024
+P1081,Prestige Pan,Home & Kitchen,Cookware,391.1,21,10/20/2024
+P1082,Tefal Frying Pan,Home & Kitchen,Cookware,468.97,37,4/10/2024
+P1083,Hawkins Cooker,Home & Kitchen,Cookware,135.42,46,5/12/2024
+P1084,Staub Dutch Oven,Home & Kitchen,Cookware,1023.64,82,10/26/2024
+P1085,Philips Air Fryer,Home & Kitchen,Cookware,1180.07,64,11/23/2024
+P1086,LG Microwave,Home & Kitchen,Appliances,464.84,51,4/12/2024
+P1087,Bosch Dishwasher,Home & Kitchen,Appliances,62.29,89,2/12/2024
+P1088,IFB Washer,Home & Kitchen,Appliances,1228.82,91,11/9/2024
+P1089,Philips Mixer,Home & Kitchen,Appliances,796.95,66,7/5/2024
+P1090,Kent RO Purifier,Home & Kitchen,Appliances,1074.34,12,2/1/2024
+P1091,Tupperware Set,Home & Kitchen,Storage Containers,996.69,42,5/10/2024
+P1092,Borosil Glass Set,Home & Kitchen,Storage Containers,910.86,35,3/30/2024
+P1093,IKEA Storage,Home & Kitchen,Storage Containers,403.34,94,5/22/2024
+P1094,Lock&Lock Jars,Home & Kitchen,Storage Containers,727.89,88,12/11/2024
+P1095,Milton Steel Tins,Home & Kitchen,Storage Containers,1415.75,25,2/25/2024
+P1096,Victorinox Knife Set,Home & Kitchen,Kitchen Tools,173.37,95,5/31/2024
+P1097,Peeler & Grater,Home & Kitchen,Kitchen Tools,1143.46,69,4/13/2024
+P1098,Bamboo Board,Home & Kitchen,Kitchen Tools,1470.14,49,7/9/2024
+P1099,Measuring Spoon Set,Home & Kitchen,Kitchen Tools,351.46,62,5/22/2024
+P1100,Digital Thermometer,Home & Kitchen,Kitchen Tools,804.87,68,7/23/2024

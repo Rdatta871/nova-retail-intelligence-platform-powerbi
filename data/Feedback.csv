@@ -1,0 +1,401 @@
+FeedbackID,CustomerID,TicketDate,IssueType,SatisfactionScore,AgentID,Comments
+F1000,C1123,6/10/2025,Excellent Support,1,E112,Unhappy with product
+F1001,C1183,6/30/2024,No Response,5,E106,Great service
+F1002,C1150,1/13/2024,Wrong Item,2,E100,Great service
+F1003,C1044,9/26/2024,Damaged Product,5,E113,Unhappy with product
+F1004,C1068,4/23/2024,Damaged Product,3,E101,
+F1005,C1149,4/13/2024,Excellent Support,1,E104,
+F1006,C1110,8/17/2024,Wrong Item,5,E105,Unhappy with product
+F1007,C1126,2/8/2025,Wrong Item,4,E106,Delayed response
+F1008,C1176,12/22/2024,No Response,4,E104,
+F1009,C1160,7/29/2025,Damaged Product,5,E102,Unhappy with product
+F1010,C1104,10/14/2025,Excellent Support,3,E102,Delayed response
+F1011,C1037,6/17/2024,Wrong Item,3,E110,
+F1012,C1016,4/23/2025,Excellent Support,2,E106,Great service
+F1013,C1167,5/2/2024,Wrong Item,4,E104,Delayed response
+F1014,C1084,12/28/2024,Wrong Item,4,E113,Great service
+F1015,C1150,2/1/2024,Damaged Product,5,E101,Resolved quickly
+F1016,C1090,10/10/2024,Damaged Product,1,E114,Great service
+F1017,C1096,10/23/2025,Wrong Item,5,E114,Resolved quickly
+F1018,C1098,5/10/2024,No Response,2,E112,Resolved quickly
+F1019,C1043,8/1/2025,Wrong Item,4,E102,Great service
+F1020,C1000,9/7/2025,No Response,3,E112,Great service
+F1021,C1154,7/13/2025,No Response,2,E101,Delayed response
+F1022,C1161,1/31/2024,No Response,5,E110,Great service
+F1023,C1168,9/24/2025,Damaged Product,5,E110,Unhappy with product
+F1024,C1175,11/3/2025,Wrong Item,1,E113,Resolved quickly
+F1025,C1083,2/21/2024,Excellent Support,3,E109,Great service
+F1026,C1054,7/4/2025,No Response,3,E109,Unhappy with product
+F1027,C1096,6/4/2025,Wrong Item,2,E102,Resolved quickly
+F1028,C1098,11/17/2024,Damaged Product,5,E114,Great service
+F1029,C1000,12/28/2024,Wrong Item,5,E113,Unhappy with product
+F1030,C1025,9/11/2025,No Response,1,E111,
+F1031,C1175,4/21/2025,Wrong Item,3,E111,Great service
+F1032,C1026,8/21/2024,No Response,3,E109,Unhappy with product
+F1033,C1154,5/8/2024,Excellent Support,4,E109,Delayed response
+F1034,C1018,6/7/2025,Excellent Support,1,E112,
+F1035,C1174,9/12/2025,Damaged Product,4,E105,Resolved quickly
+F1036,C1182,6/26/2024,Late Delivery,2,E108,Delayed response
+F1037,C1096,6/2/2025,Wrong Item,3,E113,
+F1038,C1066,8/21/2025,No Response,3,E107,Resolved quickly
+F1039,C1153,7/18/2025,Damaged Product,1,E100,Great service
+F1040,C1149,9/3/2024,Damaged Product,2,E102,Resolved quickly
+F1041,C1037,2/5/2024,Damaged Product,2,E104,
+F1042,C1097,5/9/2025,Wrong Item,1,E107,Unhappy with product
+F1043,C1046,10/21/2024,Damaged Product,1,E102,Resolved quickly
+F1044,C1095,5/28/2025,Late Delivery,3,E100,Resolved quickly
+F1045,C1143,4/10/2025,Damaged Product,3,E105,Delayed response
+F1046,C1010,12/24/2025,Damaged Product,4,E109,
+F1047,C1111,9/30/2024,Wrong Item,5,E114,
+F1048,C1114,12/30/2024,No Response,1,E114,Resolved quickly
+F1049,C1039,5/11/2025,Late Delivery,4,E114,Great service
+F1050,C1004,6/1/2025,Excellent Support,2,E102,Great service
+F1051,C1146,5/22/2025,Excellent Support,3,E107,
+F1052,C1149,5/1/2024,Excellent Support,2,E110,
+F1053,C1199,10/25/2024,No Response,2,E102,Great service
+F1054,C1115,4/5/2024,Wrong Item,4,E107,Resolved quickly
+F1055,C1104,8/21/2025,Damaged Product,2,E113,Resolved quickly
+F1056,C1080,8/21/2025,Damaged Product,3,E109,Delayed response
+F1057,C1046,11/16/2025,No Response,2,E114,
+F1058,C1032,2/19/2024,Damaged Product,3,E105,
+F1059,C1127,12/25/2025,Late Delivery,3,E111,
+F1060,C1087,11/23/2025,Wrong Item,4,E114,
+F1061,C1091,9/17/2025,No Response,4,E107,Great service
+F1062,C1146,2/28/2024,Late Delivery,1,E106,Unhappy with product
+F1063,C1140,2/4/2025,Excellent Support,2,E104,Great service
+F1064,C1141,11/6/2024,Damaged Product,4,E105,Resolved quickly
+F1065,C1014,11/15/2024,Damaged Product,5,E103,Delayed response
+F1066,C1027,4/18/2025,Excellent Support,2,E101,Delayed response
+F1067,C1169,10/6/2025,Wrong Item,3,E102,
+F1068,C1113,1/8/2025,Excellent Support,3,E113,
+F1069,C1157,6/25/2025,Damaged Product,5,E107,Delayed response
+F1070,C1059,7/19/2025,No Response,2,E110,Great service
+F1071,C1030,1/13/2025,Wrong Item,2,E105,Resolved quickly
+F1072,C1031,6/12/2024,Excellent Support,4,E106,Great service
+F1073,C1176,11/8/2024,No Response,4,E100,Delayed response
+F1074,C1131,12/15/2025,Wrong Item,5,E105,Resolved quickly
+F1075,C1134,8/22/2024,No Response,4,E100,Resolved quickly
+F1076,C1075,1/26/2025,No Response,2,E113,
+F1077,C1160,10/7/2025,Damaged Product,2,E109,Great service
+F1078,C1126,12/27/2024,Wrong Item,3,E108,Unhappy with product
+F1079,C1180,3/13/2025,Late Delivery,5,E100,
+F1080,C1160,7/4/2025,No Response,3,E108,
+F1081,C1079,3/23/2024,Excellent Support,5,E114,Resolved quickly
+F1082,C1033,3/15/2024,Late Delivery,5,E100,Resolved quickly
+F1083,C1045,11/14/2025,Late Delivery,5,E101,Delayed response
+F1084,C1051,2/8/2025,Late Delivery,3,E109,Resolved quickly
+F1085,C1186,2/8/2025,Wrong Item,4,E109,Resolved quickly
+F1086,C1098,7/14/2025,No Response,1,E104,Resolved quickly
+F1087,C1012,1/11/2025,Late Delivery,2,E108,Resolved quickly
+F1088,C1055,12/4/2024,No Response,4,E113,Delayed response
+F1089,C1080,3/1/2024,Damaged Product,5,E105,Resolved quickly
+F1090,C1157,2/17/2025,Damaged Product,4,E107,Delayed response
+F1091,C1070,6/6/2024,Damaged Product,1,E100,
+F1092,C1027,7/19/2024,Late Delivery,4,E100,Delayed response
+F1093,C1114,4/16/2024,No Response,5,E105,Resolved quickly
+F1094,C1095,1/30/2024,Damaged Product,3,E104,
+F1095,C1103,6/22/2025,Damaged Product,5,E114,
+F1096,C1035,5/8/2025,Damaged Product,3,E114,Resolved quickly
+F1097,C1041,2/22/2024,No Response,5,E102,Delayed response
+F1098,C1174,1/2/2024,Late Delivery,4,E113,Delayed response
+F1099,C1083,2/25/2025,Late Delivery,4,E110,Delayed response
+F1100,C1113,12/22/2024,Late Delivery,4,E108,Resolved quickly
+F1101,C1165,8/10/2024,No Response,1,E102,Resolved quickly
+F1102,C1053,2/27/2025,Wrong Item,5,E100,Unhappy with product
+F1103,C1016,11/12/2024,Wrong Item,1,E102,Resolved quickly
+F1104,C1178,4/20/2024,Damaged Product,3,E107,Resolved quickly
+F1105,C1139,4/17/2025,Late Delivery,2,E105,Unhappy with product
+F1106,C1169,7/18/2025,Wrong Item,4,E101,Great service
+F1107,C1109,11/25/2024,Excellent Support,1,E112,Resolved quickly
+F1108,C1006,9/17/2024,Excellent Support,3,E114,
+F1109,C1145,11/9/2024,No Response,1,E109,
+F1110,C1037,11/16/2024,Damaged Product,2,E109,Unhappy with product
+F1111,C1055,1/12/2024,Late Delivery,5,E100,Unhappy with product
+F1112,C1063,4/28/2024,Excellent Support,5,E110,Delayed response
+F1113,C1051,12/16/2024,Wrong Item,1,E113,Delayed response
+F1114,C1067,7/27/2024,Damaged Product,3,E106,Great service
+F1115,C1109,5/2/2025,Late Delivery,5,E110,Delayed response
+F1116,C1063,10/14/2025,Damaged Product,4,E101,Resolved quickly
+F1117,C1020,12/21/2025,Excellent Support,1,E109,Delayed response
+F1118,C1004,11/30/2025,No Response,4,E109,
+F1119,C1092,3/2/2024,Excellent Support,5,E109,Delayed response
+F1120,C1021,8/25/2024,Wrong Item,1,E106,
+F1121,C1093,2/23/2024,Damaged Product,3,E113,Great service
+F1122,C1008,2/6/2024,Damaged Product,3,E104,
+F1123,C1043,6/7/2024,No Response,5,E108,Resolved quickly
+F1124,C1112,11/8/2025,Wrong Item,1,E108,
+F1125,C1088,5/22/2025,No Response,2,E113,Great service
+F1126,C1184,3/15/2024,Damaged Product,4,E112,
+F1127,C1055,10/18/2024,Damaged Product,4,E114,Resolved quickly
+F1128,C1079,7/3/2024,Excellent Support,1,E112,Unhappy with product
+F1129,C1155,2/24/2025,No Response,1,E114,Unhappy with product
+F1130,C1124,9/8/2024,Damaged Product,4,E102,Great service
+F1131,C1015,2/24/2025,No Response,4,E104,Unhappy with product
+F1132,C1195,3/4/2024,Late Delivery,3,E100,Unhappy with product
+F1133,C1180,3/29/2024,Damaged Product,4,E105,Resolved quickly
+F1134,C1151,12/31/2025,Late Delivery,5,E108,Resolved quickly
+F1135,C1078,6/21/2025,Wrong Item,3,E103,
+F1136,C1043,12/30/2024,Excellent Support,1,E106,
+F1137,C1119,4/22/2024,Damaged Product,4,E101,
+F1138,C1163,12/10/2024,Late Delivery,1,E105,Delayed response
+F1139,C1038,6/4/2024,Damaged Product,2,E110,Unhappy with product
+F1140,C1196,11/20/2024,Damaged Product,5,E101,Delayed response
+F1141,C1104,5/15/2024,Late Delivery,1,E113,
+F1142,C1057,9/24/2024,No Response,3,E114,
+F1143,C1032,6/7/2024,Late Delivery,2,E101,Unhappy with product
+F1144,C1174,7/24/2024,Excellent Support,2,E103,
+F1145,C1076,8/25/2025,Wrong Item,5,E102,Delayed response
+F1146,C1196,4/26/2024,No Response,1,E109,Unhappy with product
+F1147,C1052,4/6/2025,Damaged Product,1,E102,Great service
+F1148,C1135,1/15/2024,Damaged Product,3,E106,Unhappy with product
+F1149,C1113,6/7/2025,Damaged Product,3,E109,Resolved quickly
+F1150,C1159,3/15/2024,Wrong Item,4,E108,Delayed response
+F1151,C1137,11/7/2025,Damaged Product,3,E111,
+F1152,C1192,4/15/2024,Excellent Support,4,E111,Great service
+F1153,C1139,6/16/2024,Late Delivery,3,E108,Resolved quickly
+F1154,C1043,3/4/2025,Wrong Item,5,E107,Delayed response
+F1155,C1058,10/18/2024,Excellent Support,1,E105,Great service
+F1156,C1193,8/21/2024,Damaged Product,4,E100,
+F1157,C1053,8/27/2024,Excellent Support,5,E109,Unhappy with product
+F1158,C1076,9/6/2025,Damaged Product,5,E105,Unhappy with product
+F1159,C1026,9/17/2024,Damaged Product,3,E114,Delayed response
+F1160,C1072,12/15/2024,Excellent Support,2,E113,Unhappy with product
+F1161,C1130,2/26/2024,No Response,5,E105,Unhappy with product
+F1162,C1165,7/23/2025,Wrong Item,3,E112,Great service
+F1163,C1182,9/1/2025,No Response,4,E101,
+F1164,C1076,4/3/2024,Wrong Item,5,E108,
+F1165,C1014,6/1/2024,Excellent Support,5,E100,Resolved quickly
+F1166,C1190,6/10/2025,No Response,3,E106,Resolved quickly
+F1167,C1014,7/12/2024,Wrong Item,1,E104,Resolved quickly
+F1168,C1040,1/6/2025,No Response,2,E109,
+F1169,C1028,12/14/2024,Wrong Item,5,E107,Unhappy with product
+F1170,C1070,9/23/2025,No Response,3,E111,Resolved quickly
+F1171,C1097,3/3/2025,No Response,4,E109,Resolved quickly
+F1172,C1042,11/16/2025,Late Delivery,2,E101,Resolved quickly
+F1173,C1163,8/18/2024,Excellent Support,2,E101,Great service
+F1174,C1049,10/12/2025,Damaged Product,4,E113,Unhappy with product
+F1175,C1170,5/28/2025,Damaged Product,3,E108,Delayed response
+F1176,C1075,10/18/2025,No Response,3,E100,Great service
+F1177,C1086,9/27/2025,Excellent Support,3,E100,Resolved quickly
+F1178,C1129,2/6/2025,Wrong Item,2,E102,Unhappy with product
+F1179,C1034,12/22/2025,Late Delivery,4,E103,
+F1180,C1042,7/12/2025,Late Delivery,1,E105,
+F1181,C1066,6/12/2025,Wrong Item,5,E113,
+F1182,C1115,11/27/2024,Wrong Item,4,E112,Resolved quickly
+F1183,C1053,9/9/2025,No Response,5,E113,Great service
+F1184,C1127,12/27/2024,Excellent Support,4,E110,Resolved quickly
+F1185,C1152,3/2/2025,Late Delivery,4,E102,
+F1186,C1066,9/9/2025,Damaged Product,1,E103,Delayed response
+F1187,C1073,1/23/2025,Late Delivery,1,E114,Great service
+F1188,C1123,9/30/2024,Wrong Item,5,E104,Great service
+F1189,C1140,3/5/2025,Excellent Support,1,E104,Great service
+F1190,C1138,8/6/2024,Excellent Support,5,E111,Delayed response
+F1191,C1188,10/6/2025,Excellent Support,2,E104,Resolved quickly
+F1192,C1178,2/13/2025,Excellent Support,1,E100,Unhappy with product
+F1193,C1062,2/1/2025,Excellent Support,5,E110,
+F1194,C1145,1/22/2024,Wrong Item,3,E100,Resolved quickly
+F1195,C1035,3/13/2024,Wrong Item,3,E100,Unhappy with product
+F1196,C1141,3/23/2024,Excellent Support,3,E100,Unhappy with product
+F1197,C1042,9/24/2024,Excellent Support,4,E107,Great service
+F1198,C1164,12/25/2025,Wrong Item,4,E106,Unhappy with product
+F1199,C1152,7/27/2024,No Response,5,E103,
+F1200,C1152,10/9/2024,Excellent Support,3,E110,
+F1201,C1186,11/4/2024,Damaged Product,3,E107,
+F1202,C1036,10/10/2025,Excellent Support,3,E110,
+F1203,C1039,11/27/2024,Late Delivery,5,E111,
+F1204,C1082,9/17/2024,Damaged Product,3,E109,Great service
+F1205,C1057,7/13/2025,Excellent Support,1,E113,Unhappy with product
+F1206,C1115,10/1/2024,Damaged Product,5,E106,Delayed response
+F1207,C1161,6/15/2025,Late Delivery,1,E107,Great service
+F1208,C1080,9/12/2025,Late Delivery,5,E111,Unhappy with product
+F1209,C1136,8/1/2025,No Response,5,E104,Resolved quickly
+F1210,C1006,9/26/2025,Excellent Support,1,E108,Great service
+F1211,C1175,5/12/2024,Late Delivery,2,E101,Delayed response
+F1212,C1145,10/29/2024,Late Delivery,1,E108,Unhappy with product
+F1213,C1185,9/13/2025,Late Delivery,3,E110,
+F1214,C1188,2/22/2025,Excellent Support,2,E109,
+F1215,C1009,10/13/2025,No Response,3,E111,Resolved quickly
+F1216,C1078,6/3/2024,No Response,4,E109,
+F1217,C1015,5/26/2025,Late Delivery,3,E110,Unhappy with product
+F1218,C1156,8/29/2025,Damaged Product,2,E100,Unhappy with product
+F1219,C1023,6/1/2024,Late Delivery,3,E109,Resolved quickly
+F1220,C1194,11/1/2024,No Response,2,E106,Delayed response
+F1221,C1151,8/20/2024,Wrong Item,5,E104,Unhappy with product
+F1222,C1058,8/19/2025,No Response,3,E102,Resolved quickly
+F1223,C1195,2/15/2025,Wrong Item,4,E107,
+F1224,C1188,4/15/2024,No Response,4,E107,Great service
+F1225,C1036,7/18/2024,Excellent Support,1,E113,Resolved quickly
+F1226,C1122,6/20/2024,Excellent Support,4,E102,
+F1227,C1006,12/18/2025,Damaged Product,3,E112,Resolved quickly
+F1228,C1137,12/7/2025,Late Delivery,2,E113,Delayed response
+F1229,C1061,1/28/2025,Excellent Support,4,E113,Resolved quickly
+F1230,C1199,11/28/2024,Wrong Item,2,E101,Unhappy with product
+F1231,C1006,2/25/2024,No Response,2,E114,Unhappy with product
+F1232,C1007,8/27/2024,No Response,1,E112,Unhappy with product
+F1233,C1112,5/8/2025,No Response,1,E107,Resolved quickly
+F1234,C1078,12/13/2025,Damaged Product,1,E113,Resolved quickly
+F1235,C1058,9/13/2025,Late Delivery,3,E108,Delayed response
+F1236,C1143,8/24/2024,Late Delivery,5,E102,Delayed response
+F1237,C1045,8/2/2024,Late Delivery,3,E108,
+F1238,C1162,10/2/2025,Wrong Item,3,E110,Delayed response
+F1239,C1161,2/4/2025,Late Delivery,1,E100,Great service
+F1240,C1157,5/18/2024,Late Delivery,5,E110,Resolved quickly
+F1241,C1078,12/9/2024,Damaged Product,3,E112,Great service
+F1242,C1037,7/10/2025,Damaged Product,5,E114,Resolved quickly
+F1243,C1069,4/4/2025,No Response,1,E105,
+F1244,C1061,12/31/2025,Late Delivery,5,E108,
+F1245,C1188,1/6/2024,Excellent Support,3,E106,
+F1246,C1052,8/31/2025,Late Delivery,3,E108,Unhappy with product
+F1247,C1151,3/20/2025,Late Delivery,2,E101,Delayed response
+F1248,C1162,2/10/2025,Damaged Product,5,E108,Unhappy with product
+F1249,C1163,12/14/2024,Damaged Product,2,E110,Resolved quickly
+F1250,C1130,9/11/2025,Late Delivery,2,E113,Unhappy with product
+F1251,C1170,6/24/2025,Wrong Item,1,E100,Unhappy with product
+F1252,C1058,1/3/2024,Damaged Product,3,E110,
+F1253,C1119,7/28/2025,No Response,5,E112,Unhappy with product
+F1254,C1013,3/13/2024,Damaged Product,1,E108,Resolved quickly
+F1255,C1132,11/17/2025,Late Delivery,1,E108,
+F1256,C1123,12/29/2025,Wrong Item,5,E113,Great service
+F1257,C1173,8/11/2025,Damaged Product,2,E107,Delayed response
+F1258,C1189,1/27/2024,Excellent Support,2,E114,Great service
+F1259,C1096,2/12/2025,Excellent Support,3,E107,Unhappy with product
+F1260,C1033,10/15/2025,Damaged Product,4,E114,Delayed response
+F1261,C1001,3/30/2025,Late Delivery,2,E114,Great service
+F1262,C1032,7/20/2025,Damaged Product,5,E104,Unhappy with product
+F1263,C1103,6/16/2024,Excellent Support,1,E111,
+F1264,C1002,9/17/2024,No Response,5,E114,Resolved quickly
+F1265,C1094,1/7/2025,Wrong Item,5,E111,Great service
+F1266,C1037,6/15/2024,Excellent Support,4,E106,Delayed response
+F1267,C1001,5/5/2024,Late Delivery,1,E106,Unhappy with product
+F1268,C1079,6/23/2024,Late Delivery,5,E104,Delayed response
+F1269,C1033,4/4/2025,Excellent Support,3,E100,Unhappy with product
+F1270,C1173,3/18/2025,Excellent Support,4,E111,Delayed response
+F1271,C1144,9/24/2025,Damaged Product,2,E104,Resolved quickly
+F1272,C1190,7/2/2024,Late Delivery,4,E113,Unhappy with product
+F1273,C1093,8/18/2024,Excellent Support,4,E105,
+F1274,C1145,9/11/2025,Damaged Product,4,E107,Unhappy with product
+F1275,C1143,12/24/2025,Late Delivery,5,E106,
+F1276,C1005,3/25/2025,Damaged Product,1,E113,
+F1277,C1011,2/22/2025,Wrong Item,4,E109,Delayed response
+F1278,C1018,10/13/2024,No Response,1,E109,Resolved quickly
+F1279,C1079,12/8/2025,Excellent Support,5,E102,Unhappy with product
+F1280,C1090,10/3/2024,Damaged Product,5,E107,
+F1281,C1055,8/17/2024,No Response,5,E114,Great service
+F1282,C1051,6/25/2025,Damaged Product,1,E112,
+F1283,C1152,11/17/2025,Damaged Product,5,E105,Delayed response
+F1284,C1011,6/19/2024,Damaged Product,3,E103,Resolved quickly
+F1285,C1083,5/26/2024,Wrong Item,3,E110,
+F1286,C1120,4/17/2025,Late Delivery,1,E110,Unhappy with product
+F1287,C1002,9/16/2024,Late Delivery,2,E112,
+F1288,C1186,3/20/2025,No Response,2,E101,Delayed response
+F1289,C1193,7/18/2024,Wrong Item,1,E103,
+F1290,C1023,4/6/2024,No Response,1,E106,Delayed response
+F1291,C1090,4/15/2025,Damaged Product,5,E112,
+F1292,C1179,1/9/2025,Damaged Product,3,E108,Resolved quickly
+F1293,C1003,5/7/2025,Late Delivery,3,E101,Delayed response
+F1294,C1060,3/4/2025,Damaged Product,1,E105,Resolved quickly
+F1295,C1093,6/8/2024,Excellent Support,2,E108,Delayed response
+F1296,C1100,12/27/2024,No Response,2,E111,Unhappy with product
+F1297,C1180,4/13/2025,Late Delivery,4,E104,Resolved quickly
+F1298,C1183,11/1/2024,Wrong Item,2,E113,Resolved quickly
+F1299,C1139,7/22/2025,Wrong Item,1,E106,
+F1300,C1097,12/31/2024,Damaged Product,4,E108,Great service
+F1301,C1187,3/5/2025,Excellent Support,5,E108,
+F1302,C1173,12/28/2024,Excellent Support,2,E113,Delayed response
+F1303,C1062,4/13/2024,Late Delivery,3,E100,Delayed response
+F1304,C1167,4/22/2024,Excellent Support,2,E102,
+F1305,C1098,6/23/2025,No Response,5,E104,Great service
+F1306,C1073,9/6/2025,Wrong Item,1,E101,Great service
+F1307,C1158,4/16/2024,No Response,3,E104,Resolved quickly
+F1308,C1097,10/1/2025,Damaged Product,1,E110,
+F1309,C1105,5/23/2024,Damaged Product,1,E113,Unhappy with product
+F1310,C1026,3/10/2024,Wrong Item,5,E109,Resolved quickly
+F1311,C1021,1/2/2025,Late Delivery,2,E101,Resolved quickly
+F1312,C1151,12/21/2024,Excellent Support,3,E103,Resolved quickly
+F1313,C1103,9/5/2025,Damaged Product,2,E100,Delayed response
+F1314,C1049,4/3/2025,Excellent Support,3,E110,Resolved quickly
+F1315,C1120,12/23/2025,Damaged Product,5,E100,Resolved quickly
+F1316,C1016,7/21/2025,Excellent Support,5,E107,Unhappy with product
+F1317,C1089,2/1/2025,No Response,3,E114,Great service
+F1318,C1156,12/31/2024,Damaged Product,3,E111,Unhappy with product
+F1319,C1028,4/16/2025,Late Delivery,4,E106,Delayed response
+F1320,C1010,4/3/2025,Late Delivery,3,E111,Unhappy with product
+F1321,C1017,2/1/2025,No Response,2,E114,
+F1322,C1101,2/3/2024,Damaged Product,2,E105,Unhappy with product
+F1323,C1115,4/6/2025,Excellent Support,2,E100,Great service
+F1324,C1097,1/12/2025,Late Delivery,5,E114,Delayed response
+F1325,C1003,3/18/2024,Damaged Product,3,E102,Delayed response
+F1326,C1182,3/5/2025,Excellent Support,1,E109,Delayed response
+F1327,C1112,8/14/2025,Damaged Product,4,E114,Resolved quickly
+F1328,C1092,12/2/2025,Wrong Item,1,E102,Delayed response
+F1329,C1005,11/10/2024,Damaged Product,4,E100,Resolved quickly
+F1330,C1015,11/21/2025,Damaged Product,2,E108,
+F1331,C1172,8/25/2024,Late Delivery,5,E100,
+F1332,C1067,6/27/2024,No Response,4,E102,Unhappy with product
+F1333,C1163,10/3/2025,No Response,4,E108,Unhappy with product
+F1334,C1132,1/10/2025,Late Delivery,1,E109,Great service
+F1335,C1181,4/15/2025,Excellent Support,3,E111,Delayed response
+F1336,C1034,12/28/2024,Excellent Support,1,E110,Delayed response
+F1337,C1173,11/17/2024,No Response,1,E105,Unhappy with product
+F1338,C1155,11/4/2024,Excellent Support,3,E102,
+F1339,C1192,1/3/2025,Late Delivery,3,E112,Delayed response
+F1340,C1018,9/9/2025,Wrong Item,3,E114,Resolved quickly
+F1341,C1170,8/10/2025,Late Delivery,3,E101,Resolved quickly
+F1342,C1003,5/24/2024,Wrong Item,4,E112,Great service
+F1343,C1100,11/11/2024,Damaged Product,1,E114,Unhappy with product
+F1344,C1181,6/30/2025,Late Delivery,5,E113,Resolved quickly
+F1345,C1039,7/8/2024,Damaged Product,4,E112,Great service
+F1346,C1198,10/19/2025,No Response,1,E107,Resolved quickly
+F1347,C1090,1/20/2024,Excellent Support,4,E112,Great service
+F1348,C1116,11/16/2025,Excellent Support,2,E112,Delayed response
+F1349,C1125,11/8/2025,Late Delivery,2,E109,Delayed response
+F1350,C1128,6/17/2025,No Response,1,E111,Great service
+F1351,C1123,5/18/2025,No Response,5,E103,Resolved quickly
+F1352,C1117,8/25/2024,No Response,5,E106,Delayed response
+F1353,C1107,4/11/2025,No Response,5,E102,Delayed response
+F1354,C1002,6/22/2025,Late Delivery,5,E110,Delayed response
+F1355,C1041,6/5/2024,No Response,1,E104,
+F1356,C1011,3/19/2024,Wrong Item,2,E110,Unhappy with product
+F1357,C1116,5/29/2024,Damaged Product,3,E102,Unhappy with product
+F1358,C1068,3/9/2024,Late Delivery,5,E104,Resolved quickly
+F1359,C1186,2/23/2025,Excellent Support,2,E101,Delayed response
+F1360,C1142,5/25/2024,No Response,1,E114,Great service
+F1361,C1006,3/17/2024,Late Delivery,4,E102,Resolved quickly
+F1362,C1029,12/25/2025,Late Delivery,5,E109,Great service
+F1363,C1017,6/25/2024,Wrong Item,5,E110,
+F1364,C1092,4/29/2024,No Response,5,E110,Unhappy with product
+F1365,C1108,3/8/2024,Damaged Product,1,E105,Great service
+F1366,C1043,8/31/2024,Damaged Product,5,E107,Delayed response
+F1367,C1153,6/12/2025,No Response,3,E110,Resolved quickly
+F1368,C1132,5/19/2024,Late Delivery,2,E100,Delayed response
+F1369,C1032,4/7/2024,Damaged Product,3,E103,Great service
+F1370,C1137,9/16/2024,No Response,3,E114,Unhappy with product
+F1371,C1067,12/23/2025,Excellent Support,2,E103,Resolved quickly
+F1372,C1199,5/4/2024,Wrong Item,5,E104,
+F1373,C1042,7/5/2024,Damaged Product,4,E101,Delayed response
+F1374,C1163,7/17/2025,Excellent Support,4,E106,Unhappy with product
+F1375,C1015,7/30/2025,Excellent Support,3,E102,Unhappy with product
+F1376,C1100,12/23/2025,No Response,1,E111,Great service
+F1377,C1083,10/13/2025,Damaged Product,5,E109,Resolved quickly
+F1378,C1181,7/24/2025,Excellent Support,5,E101,
+F1379,C1048,11/2/2025,Damaged Product,3,E104,Great service
+F1380,C1066,9/23/2025,Late Delivery,1,E108,Resolved quickly
+F1381,C1170,10/27/2025,Excellent Support,3,E100,Great service
+F1382,C1122,8/19/2025,Late Delivery,5,E108,Resolved quickly
+F1383,C1197,7/23/2025,Wrong Item,5,E102,Great service
+F1384,C1120,9/18/2025,Excellent Support,3,E108,Great service
+F1385,C1118,6/18/2025,No Response,1,E110,Resolved quickly
+F1386,C1048,2/12/2025,Wrong Item,1,E104,Great service
+F1387,C1098,4/26/2025,No Response,3,E111,Resolved quickly
+F1388,C1147,3/2/2025,Late Delivery,4,E108,Great service
+F1389,C1104,11/4/2024,Damaged Product,3,E103,
+F1390,C1144,3/9/2025,Damaged Product,1,E109,Unhappy with product
+F1391,C1113,9/28/2024,Damaged Product,2,E108,Great service
+F1392,C1057,7/26/2025,Damaged Product,5,E105,Delayed response
+F1393,C1150,11/18/2025,Late Delivery,2,E113,
+F1394,C1042,10/29/2025,Late Delivery,2,E109,Resolved quickly
+F1395,C1043,7/6/2024,No Response,1,E111,Great service
+F1396,C1162,6/14/2024,Late Delivery,4,E114,Delayed response
+F1397,C1004,1/15/2024,Damaged Product,5,E108,Great service
+F1398,C1117,2/19/2024,Damaged Product,2,E111,Delayed response
+F1399,C1149,6/11/2025,Damaged Product,5,E100,Unhappy with product

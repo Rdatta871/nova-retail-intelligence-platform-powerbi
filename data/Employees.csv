@@ -1,0 +1,16 @@
+EmployeeID,FullName,Role,Department,HireDate,Region
+E100,Helge Hellberg,Support Agent,Service,1/6/2020,Germany
+E101,Dott. Lando Finetti,Support Agent,Service,12/29/2020,France
+E102,Gordon Porter,Sales Executive,Sales,7/20/2023,Poland
+E103,Jessica Gonzales,Support Agent,Service,5/18/2024,Belgium
+E104,Mikael Hansson,Manager,Service,5/29/2022,Germany
+E105,Marcello Gangemi-Riccardi,Support Agent,Service,10/25/2024,Poland
+E106,Suzanne Collins,Support Agent,Service,5/4/2024,Belgium
+E107,Adrien Traore-Regnier,Support Agent,Service,9/6/2022,Poland
+E108,Rozalia Rećko,Support Agent,Service,9/12/2021,Belgium
+E109,Anna Löfgren,Sales Executive,Sales,6/5/2021,France
+E110,Leah Howells,Manager,Service,3/12/2023,Sweden
+E111,Henri Mercier-Bouchet,Sales Executive,Sales,9/24/2022,France
+E112,John Evans,Support Agent,Service,12/6/2021,Netherlands
+E113,Emmanuelle-Nicole Masson,Sales Executive,Sales,4/7/2020,Spain
+E114,Thomas Gros,Sales Executive,Sales,1/30/2023,Belgium
