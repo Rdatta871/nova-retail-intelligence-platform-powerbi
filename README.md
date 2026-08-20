@@ -112,8 +112,7 @@ The final implementation, validation, visual development, and business storytell
 
 ---
 
-## 
-Dashboard Files
+## Dashboard Files
 
 The complete dashboard is available in the repository in the following formats:
 
