@@ -112,27 +112,20 @@ The final implementation, validation, visual development, and business storytell
 
 ---
 
-## Dashboard Preview
+## 
+Dashboard Files
 
-### Executive Overview
+The complete dashboard is available in the repository in the following formats:
 
-Images/Executive_Overview.png
+- Power BI Report (.pbix)
+- PDF Export (.pdf)
 
-### Sales & Product Intelligence
+### Files Included
 
-Images/Sales_Product_Intelligence.png
+- Nova Retail Intelligence Platform.pbix
+- Nova Retail Intelligence Platform.pdf
 
-### Customer Intelligence
-
-Images/Customer_Intelligence.png
-
-### Customer Experience
-
-Images/Customer_Experience.png
-
-### AI Insights Hub
-
-Images/AI_Insights_Hub.png
+The PBIX file can be opened in Microsoft Power BI Desktop for full interactivity, while the PDF provides a complete overview of all dashboard pages, KPIs, and visual insights generated as part of this project.
 
 ---
 
